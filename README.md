@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jhonatan Feitosa</h1>
 <h3 align="center">A passionate for development Full Stack, and create solutions for help peoples</h3>
 
-- 🔭 I’m currently working on **Accenture**
+- 🔭 I’m currently working on **CI&T**
 
-- 🌱 I’m currently learning **TypeScript, React, AngularJs**
+- 🌱 I’m currently learning **TypeScript, React, Node and Google Cloud**
 
 - 🤝 I’m looking for help with [Menos Frio, Mais Amor](https://www.instagram.com/projetomenosfriomaisamor/)
 
