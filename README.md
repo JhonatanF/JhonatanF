@@ -7,6 +7,8 @@
 
 - 🤝 I’m looking for help with [Menos Frio, Mais Amor](https://www.instagram.com/projetomenosfriomaisamor/)
 
+-     Specialist Java and Spring Ecosytem
+
 
 
 <p align="center">
