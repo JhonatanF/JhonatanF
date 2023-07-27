@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jhonatan Feitosa</h1>
-<h3 align="center">A passionate for development Full Stack, and create solutions for help peoples</h3>
+<h3 align="center">Developing highly available apps and creating solutions that can assist people is a passion of mine. I take pride in the work I do, and I'm dedicated to ensuring that my creations are reliable and efficient. By using my skills and knowledge, I aim to make a positive impact on people's lives through technology.</h3>
 
 - 🔭 I’m currently working on **CI&T**
 
@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [Menos Frio, Mais Amor](https://www.instagram.com/projetomenosfriomaisamor/)
 
-- **Specialist Java and Spring Ecosytem**
+- **Specialist Java and Spring Ecosystem**
 
 
 
